@@ -1,0 +1,10 @@
+<!DOCTYPE Students>
+<students>
+ <student>
+  <nume>Popescu</nume>
+  <prenume>Ion</prenume>
+  <grupa>AC101</grupa>
+  <nota>9.5</nota>
+  <dataNotarii>2025-07-10</dataNotarii>
+ </student>
+</students>

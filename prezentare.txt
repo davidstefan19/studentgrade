@@ -1,0 +1,8 @@
+Titlu:
+StudentGradeManager
+
+Scurtă descriere:
+Aplicație desktop pentru gestionarea notelor studenților. Permite adăugarea, ștergerea și vizualizarea datelor studenților, inclusiv nume, prenume, dată, notă și grupă. De asemenea, oferă funcționalități de import și export date în format XML. Interfața este simplă și intuitivă, facilitând managementul rapid al informațiilor studenților.
+
+Limbaje de programare, tehnologii, unelte folosite:
+C++, Qt Framework (Qt Widgets pentru GUI), XML pentru stocarea datelor.

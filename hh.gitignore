@@ -1,0 +1,52 @@
+# Build directories
+build-*/
+debug/
+release/
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.autosave
+
+# Qt Creator specific
+*.creator.*
+*.user
+*.user.*
+
+# Object and generated files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.app
+*.a
+*.lib
+*.ncb
+*.sdf
+*.suo
+*.ilk
+*.pch
+*.pdb
+
+# Makefiles
+Makefile*
+*.moc
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+
+# Backup and temporary files
+*~
+*.bak
+*.tmp
+*.swp
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# MacOS / Linux system files
+.DS_Store
